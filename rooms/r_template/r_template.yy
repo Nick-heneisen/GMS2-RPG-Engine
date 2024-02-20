@@ -24,8 +24,8 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Interactables_below","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Interactables_tiles","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":15,"SerialiseWidth":19,"TileCompressedData":[
 -21,-2147483648,1,1073741824,-55,-2147483648,-2,0,-17,-2147483648,1,0,-3,-2147483648,-2,0,3,-2147483648,0,
-0,-14,-2147483648,2,0,2,-3,-2147483648,1,2,-17,-2147483648,4,0,-2147483648,-2147483648,2,-13,-2147483648,
-1,2,-17,-2147483648,1,2,-107,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_interactable","path":"tilesets/ts_interactable/ts_interactable.yy",},"userdefinedDepth":false,"visible":false,"x":0,"y":0,},
+0,-14,-2147483648,-2,0,-3,-2147483648,1,0,-17,-2147483648,4,0,-2147483648,-2147483648,0,-13,-2147483648,1,
+0,-17,-2147483648,1,2,-107,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_interactable","path":"tilesets/ts_interactable/ts_interactable.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Walls","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":15,"SerialiseWidth":19,"TileCompressedData":[
 -99,-2147483648,-11,2,-8,-2147483648,3,2,0,0,-7,-2147483648,1,2,-8,-2147483648,3,2,0,
 0,-7,-2147483648,1,2,-8,-2147483648,3,2,0,0,-7,-2147483648,1,2,-8,-2147483648,-2,2,

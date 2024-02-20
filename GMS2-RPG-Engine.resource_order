@@ -16,7 +16,6 @@
     {"name":"Interactables","order":2,"path":"folders/Sprites/Interactables.yy",},
     {"name":"Pickups","order":3,"path":"folders/Sprites/Pickups.yy",},
     {"name":"Tile Sets","order":3,"path":"folders/Tile Sets.yy",},
-    {"name":"Steamworks","order":8,"path":"folders/Steamworks.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"s_npc1","order":1,"path":"sprites/s_npc1/s_npc1.yy",},
